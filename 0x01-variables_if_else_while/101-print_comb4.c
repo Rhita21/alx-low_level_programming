@@ -1,13 +1,12 @@
 #include <stdio.h>
 
-int main(void)
-
 /**
  * main - Entry point
- * description : Write a program that prints all possible unique combinations of three digits
+ * Description : prints all possible combinations of three digits
  * Return: Always 0 (Success)
  */
 
+int main(void)
 {
 int i, j, k;
 
